@@ -12,7 +12,7 @@ In order to run the application Type the following command
 
 The Application Runs on ``` localhost:3000```.
 
-![Screenshot from 2023-10-25 22-21-03](https://github.com/hovhannisyannarine/code_examples/assets/143603401/eb6d92b2-fab3-47d6-9ad2-cdf9c4fd72e0)
+<img src="https://github.com/hovhannisyannarine/code_examples/assets/143603401/eb6d92b2-fab3-47d6-9ad2-cdf9c4fd72e0" width="200" height="150">
 
 Second project  ``` MVC ```  in  php 
 
