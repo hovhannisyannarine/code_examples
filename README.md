@@ -13,7 +13,7 @@ The Application Runs on ``` localhost:3000```.
 
 Second project  ``` MVC ```  in  php 
 
-Simple example of the MVC pattern in PHP
+Simple example of the MVC pattern
 
 To work in PHP, you need a web server with PHP support.
 For example, you can use XAMPP, WAMP, or MAMP, which are
