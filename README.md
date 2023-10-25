@@ -1,6 +1,7 @@
 # code_examples
 
 First project ```Calculator``` in React
+
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
 ```npm install```
@@ -11,10 +12,12 @@ In order to run the application Type the following command
 
 The Application Runs on ``` localhost:3000```.
 
+![Screenshot from 2023-10-25 22-21-03](https://github.com/hovhannisyannarine/code_examples/assets/143603401/eb6d92b2-fab3-47d6-9ad2-cdf9c4fd72e0)
+
 Second project  ``` MVC ```  in  php 
 
 Simple example of the MVC pattern
 
-To work in PHP, you need a web server with PHP support.
-For example, you can use XAMPP, WAMP, or MAMP, which are
+To work in PHP, you need a web server that supports PHP, like Apache or Nginx.
+You can also use XAMPP, WAMP, or MAMP, which are
 bundled packages including Apache, PHP, and MySQL for local PHP development.
