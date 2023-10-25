@@ -23,4 +23,4 @@ To work in PHP, you need a web server that supports PHP, like Apache or Nginx.
 You can also use XAMPP, WAMP, or MAMP, which are
 bundled packages including Apache, PHP, and MySQL for local PHP development.
 
-՝՝՝The MVC project is expected to continue․․․․․․․․․․․․՝՝՝
+```The MVC project is expected to continue․․․․․․․․․․․․```
