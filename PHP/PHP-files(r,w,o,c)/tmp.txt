@@ -1,0 +1,6 @@
+Functions related to files.
+
+* Opening a file
+* Reading a file
+* Writing a file
+* Closing a file
